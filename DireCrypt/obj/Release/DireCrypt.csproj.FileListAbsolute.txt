@@ -1,0 +1,11 @@
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\bin\Release\DireCrypt.exe.config
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\bin\Release\DireCrypt.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.InputPasswordForm.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.MainForm.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.ProgressForm.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.Properties.Resources.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.SetPasswordForm.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.csproj.GenerateResource.Cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Release\DireCrypt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\bin\Debug\DireCrypt.exe.config
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\bin\Debug\DireCrypt.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\bin\Debug\DireCrypt.pdb
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.csprojResolveAssemblyReference.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.Properties.Resources.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.csproj.GenerateResource.Cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.pdb
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.MainForm.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.ProgressForm.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.SetPasswordForm.resources
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\DireCrypt\DireCrypt\obj\Debug\DireCrypt.InputPasswordForm.resources
